@@ -34,3 +34,8 @@
 <p><a href="https://www.buymeacoffee.com/jakhongirdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jakhongirdev" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaxongir0101&show_icons=true&locale=en&layout=compact" alt="jaxongir0101" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaxongir0101&show_icons=true&locale=en" alt="jaxongir0101" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaxongir0101&" alt="jaxongir0101" /></p>
