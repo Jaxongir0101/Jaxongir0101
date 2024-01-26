@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jakhongir Rustamov</h1>
 <h3 align="center">A passionate Flutter developer from Uzbekistan.</h3>
 
-<image align=“right” alt=“coding” width = 400 src=”https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif”>
+<img align=“right” alt=“coding” width = 400 src=”https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaxongir0101&label=Profile%20views&color=0e75b6&style=flat" alt="jaxongir0101" /> </p>
 
