@@ -14,7 +14,9 @@
 
 - 💬 Ask me about Flutter
 
-- 📫 How to reach me rustamovjaxongir765@gmail.com
+- <a href="https://gitlab.com/JaxongirDev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" alt="JaxongirDev" height="24" width="24" /></a> My Gitlab account:  <a href="https://gitlab.com/JaxongirDev" target="blank">JaxongirDev</a>
+
+- 📫 How to reach me rustamovjaxongir765@gmail.com 
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1xHW5_at81xwAR8WYhhxVGS8lB11KSgnflkB-V5F-wUg/edit?usp=sharing](https://docs.google.com/document/d/1xHW5_at81xwAR8WYhhxVGS8lB11KSgnflkB-V5F-wUg/edit?usp=sharing)
 
